@@ -17,10 +17,6 @@ Not every program is long-lived --- many programs are just quick
 experiments. But when an experiment turns out useful or interesting,
 it's worth spending the effort to share it and help it live on.
 
-Adding another change to demonstrate git.
-
-Adding some stuff here.
-
 How, in Brief
 -------------
 
@@ -161,8 +157,4 @@ explain how to get it.
 
 If getting the data depends on having specific account credentials
 (like an API key), explain how to get credentials.
-
-### New Section
-
-I'm adding a new section to demonstrate git.
 
